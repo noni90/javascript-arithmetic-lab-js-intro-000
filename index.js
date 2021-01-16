@@ -36,7 +36,7 @@ function subtract(a,b){
    return a/b;
  }
  function  increment(x){
-   return x++;
+   return ++x;
  }
  function decrement(x){
    return x--;
