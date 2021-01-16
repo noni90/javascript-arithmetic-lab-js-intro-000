@@ -16,3 +16,9 @@ function subtract()
   x-=10;
   console.log(x);
 }
+function divide()
+{
+  var x= 20;
+  x/=5;
+  console.log(x);
+}
