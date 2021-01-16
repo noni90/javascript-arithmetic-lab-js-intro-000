@@ -44,3 +44,6 @@ function subtract(a,b){
  function makeInt(x){
    return parseInt(x, 10);
  }
+function preserveDecimal(n){
+  return parseFloat(n);
+}
