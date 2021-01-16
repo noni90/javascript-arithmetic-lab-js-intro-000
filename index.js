@@ -42,5 +42,5 @@ function subtract(a,b){
    return --x;
  }
  function makeInt(x){
-   return parseInt('6',x);
+   return parseInt(x, 10);
  }
