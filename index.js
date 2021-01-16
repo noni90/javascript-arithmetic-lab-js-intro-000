@@ -10,3 +10,9 @@ function multiply()
   x*=10;
   console.log(x);
 }
+function subtract()
+{
+  var x= 5;
+  x-=10;
+  console.log(x);
+}
