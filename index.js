@@ -4,7 +4,7 @@ function add()
   x+=5;
   console.log(x);
 }
-function multip()
+function multiply()
 {
   var x= 5;
   x*=10;
