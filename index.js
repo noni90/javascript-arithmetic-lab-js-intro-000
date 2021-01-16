@@ -41,4 +41,6 @@ function subtract(a,b){
  function decrement(x){
    return x--;
  }
- 
+ function makeInt(x){
+   return parseInt('6',x);
+ }
