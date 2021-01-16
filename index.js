@@ -22,3 +22,7 @@ function divide()
   x/=5;
   console.log(x);
 }
+function add(a,b)
+{
+  return a+b;
+}
